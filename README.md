@@ -1,4 +1,5 @@
 #Amazon clone
+
 This project is a static web application that replicates the user interface of Amazon using HTML and CSS. It includes various product listings, a product details page, and a basic shopping cart.
 
 # Screenshots 
@@ -14,4 +15,3 @@ This project is a static web application that replicates the user interface of A
 •Html
 •Css
 
-# you can check code by clicking on "index.html" and "style.css" files.
