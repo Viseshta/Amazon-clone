@@ -2,14 +2,15 @@
 
 This project is a static web application that replicates the user interface of Amazon using HTML and CSS. It includes various product listings, a product details page, and a basic shopping cart.
 
-# Screenshots 
+# Images
 
-![screenshot](![homepage](https://github.com/user-attachments/assets/b0e41ff0-b740-487b-9505-77c90fcf7c91))
-![screenshot](![images](https://github.com/user-attachments/assets/993fb1f1-17ca-4776-b71e-f6f3af21a553))
-![screenshot](![copyright1](https://github.com/user-attachments/assets/5a21df11-90c5-460f-9365-cd80d1ef02e9))
-![screenshot](![copyright2](https://github.com/user-attachments/assets/ef35023e-b709-46c2-b010-4c15b1fa113c))
-![screenshot](![html](https://github.com/user-attachments/assets/341893cc-0cda-481c-b809-6b778e7b9ed3))
-![screenshot](![css](https://github.com/user-attachments/assets/634c3d01-b814-4d71-8f05-b98328ee8595))
+![copyright2](https://github.com/user-attachments/assets/6b01416e-edee-403c-b68c-37cae7f3e27a)
+![copyright1](https://github.com/user-attachments/assets/07873d73-99bb-4ba0-ae07-34038119401d)
+![css](https://github.com/user-attachments/assets/eb51bca6-f033-49ed-a0a5-b98f9e4eff0e)
+![homepage](https://github.com/user-attachments/assets/bd78105b-70ce-4685-81b1-afd937b07ef3)
+![html](https://github.com/user-attachments/assets/9e8debc1-6e0a-4588-bfa9-443515304699)
+![images](https://github.com/user-attachments/assets/a6c8044e-df0c-4238-ba59-55ab7ba2919c)
+
 
 # Technologies used
 •Html
